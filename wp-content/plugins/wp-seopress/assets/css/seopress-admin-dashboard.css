@@ -221,7 +221,7 @@
 
 /* Default styles */
 .seopress-dashboard .seopress-option {
-    background: url(/wp-content/plugins/wp-seopress/assets/img/bg-dashboard.svg) no-repeat 100% 0%;
+    background: url(https://www.area18.com.ar/wp-content/plugins/wp-seopress/assets/img/bg-dashboard.svg) no-repeat 100% 0%;
     padding-top: 100px;
     display: flex;
     flex-wrap: wrap;
@@ -368,7 +368,7 @@
 
 .seopress-get-started .seopress-block-wizard::after {
     content: '';
-    background: url(/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) right top no-repeat;
+    background: url(https://www.area18.com.ar/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) right top no-repeat;
     opacity: 0.1;
     position: absolute;
     right: 0;
@@ -535,7 +535,7 @@
 
 .seopress-checklist .seopress-block-checklist::after {
     content: '';
-    background: url(/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) right top no-repeat;
+    background: url(https://www.area18.com.ar/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) right top no-repeat;
     opacity: 0.1;
     position: absolute;
     right: 0;

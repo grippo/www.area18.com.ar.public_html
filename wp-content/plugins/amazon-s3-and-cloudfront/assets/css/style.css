@@ -75,7 +75,7 @@
   height: 24px;
   min-width: 24px;
   min-height: 24px;
-  background: url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/arrow.svg) no-repeat center/18px;
+  background: url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/arrow.svg) no-repeat center/18px;
   border-radius: 12px;
   transition: all 0.2s ease-in;
 }
@@ -434,7 +434,7 @@
 }
 #as3cf-settings.wpome select {
   all: unset;
-  background: var(--as3cf-color-white) url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/arrow.svg) no-repeat calc(100% - 18px) 50%;
+  background: var(--as3cf-color-white) url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/arrow.svg) no-repeat calc(100% - 18px) 50%;
   border: 1px solid var(--as3cf-color-gray-400);
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.05);
   border-radius: 8px;
@@ -555,7 +555,7 @@
   width: 1110px;
   max-width: 1110px;
   height: 100%;
-  background-image: url("/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/brand/ome-branding-transparent.svg");
+  background-image: url("https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/brand/ome-branding-transparent.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
@@ -908,7 +908,7 @@
   height: 16px;
   min-width: 16px;
   min-height: 16px;
-  background: url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/close.svg) no-repeat;
+  background: url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/close.svg) no-repeat;
   border: none;
   border-radius: 100%;
   cursor: pointer;
@@ -995,7 +995,7 @@
   border-radius: 6px;
 }
 #as3cf-settings.wpome .notification.expandable button.dismiss:before {
-  content: url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/x.svg);
+  content: url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/icon/x.svg);
   width: 7.5px;
 }
 #as3cf-settings.wpome .notification button:not(.btn-refresh):focus, #as3cf-settings.wpome .notification button:not(.btn-refresh):active {
@@ -1220,7 +1220,7 @@
   width: 292px;
   height: 156px;
   display: block;
-  background: #f8cfae url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/sidebar/os3-banner.svg) left bottom/100% no-repeat;
+  background: #f8cfae url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/sidebar/os3-banner.svg) left bottom/100% no-repeat;
 }
 #as3cf-settings.wpome .as3cf-banner:focus {
   box-shadow: none;
@@ -1270,7 +1270,7 @@
   margin-bottom: 15px;
   line-height: 18px;
   padding-left: 25px;
-  background: url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/sidebar/item-checked.svg) left center no-repeat;
+  background: url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/sidebar/item-checked.svg) left center no-repeat;
 }
 
 #as3cf-settings.wpome a,
@@ -2311,7 +2311,7 @@
   background: linear-gradient(136.01deg, rgba(255, 228, 205, 0.7) 0.94%, rgb(255, 255, 255) 33.33%);
 }
 #as3cf-settings.wpome .upsell .branding {
-  background: url(/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/brand/upsell-bunny.svg) no-repeat left bottom;
+  background: url(https://www.area18.com.ar/wp-content/plugins/amazon-s3-and-cloudfront/assets/img/brand/upsell-bunny.svg) no-repeat left bottom;
   min-width: 280px;
   border-radius: 5px;
   margin-right: -1.25rem;
